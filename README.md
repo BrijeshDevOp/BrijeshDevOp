@@ -2,7 +2,9 @@
   <img src="ASSETS/developer.gif" alt="Developer" width="500"/>
 </div>
 
-<h1 align="center">Brijesh Poojary</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" alt="Brijesh Poojary"/>
+</div>
 <h3 align="center">Full Stack Developer | India</h3>
 
 <p align="center">
@@ -17,11 +19,17 @@
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-000000?style=flat&logo=render&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-000000?style=flat&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=white)
 
 </div>
 
