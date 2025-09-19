@@ -98,8 +98,9 @@ Signalling server for P2P file transfer app
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-poojary-bb37512b3)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/BrijeshDevOp)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/brijeshpoojary9663/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:brijeshpoojary9663@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/BrijeshDevOp)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/brijeshpoojary9663/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:brijeshpoojary9663@gmail.com)
 
 </div>
+
