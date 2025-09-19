@@ -3,8 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" alt="Brijesh Poojary"/>
+
+<!-- Light mode -->
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY#gh-light-mode-only" alt="Brijesh Poojary"/>
+
+<!-- Dark mode -->
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY#gh-dark-mode-only" alt="Brijesh Poojary"/>
+
 </div>
+
 <h3 align="center">Full Stack Developer | India</h3>
 
 <p align="center">
