@@ -6,10 +6,10 @@
 
 <picture>
   <!-- Dark mode -->
-  <source srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" media="(prefers-color-scheme: light)" />
+  <source srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" media="(prefers-color-scheme: dark)" />
   
   <!-- Light mode -->
-  <source srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" media="(prefers-color-scheme: light)" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=BRIJESH+POOJARY" alt="Brijesh Poojary" />
 </picture>
