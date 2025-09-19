@@ -19,7 +19,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white)
@@ -28,14 +27,14 @@
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrijeshDevOp&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrijeshDevOp&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Chart"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshDevOp&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrijeshDevOp&theme=default&hide_border=true" alt="GitHub Contribution Heatmap"/>
 </div>
 
 
