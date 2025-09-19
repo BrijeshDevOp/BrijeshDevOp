@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ASSETS/developer.gif" alt="Developer" width="500"/>
+  <img src="ASSETS/developer.gif" alt="Developer" width="100%"/>
 </div>
 
 <h1 align="center">Brijesh Poojary</h1>
