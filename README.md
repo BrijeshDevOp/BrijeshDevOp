@@ -37,7 +37,7 @@
 
 <div align="center">
   
-![GitHub Contributions](https://ghchart.rshah.org/404040/BrijeshDevOp)
+<img src="https://ghchart.rshah.org/404040/BrijeshDevOp" alt="GitHub Contributions" width="100%"/>
 
 </div>
 
