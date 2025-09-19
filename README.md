@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ASSETS/developer.gif" alt="Developer" width="100%"/>
+  <img src="ASSETS/developer.gif" alt="Developer" width="500"/>
 </div>
 
 <h1 align="center">Brijesh Poojary</h1>
@@ -38,11 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshDevOp&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrijeshDevOp&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
-</div>
-
----
 
 ## Connect
 
