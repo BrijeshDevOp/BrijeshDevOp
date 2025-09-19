@@ -33,10 +33,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrijeshDevOp&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Chart"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrijeshDevOp&theme=default&hide_border=true" alt="GitHub Contribution Heatmap"/>
-</div>
+<br/>
 
+<div align="center">
+  
+![GitHub Contributions](https://ghchart.rshah.org/404040/BrijeshDevOp)
+
+</div>
 
 ## Connect
 
