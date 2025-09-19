@@ -38,22 +38,54 @@
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrijeshDevOp&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Chart"/>
-</div>
-
-<br/>
-
-<div align="center">
   
 <img src="https://ghchart.rshah.org/404040/BrijeshDevOp" alt="GitHub Contributions" width="100%"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrijeshDevOp&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Chart"/>
+</div>
+
+---
+
+## Projects
+
+### 🚀 Featured Projects
+
+**🌐 [Portfolio](https://github.com/BrijeshDevOp/Portfolio)**  
+A Portfolio which reflects my skills and my journey  
+`CSS` `HTML` `JavaScript` ⭐ 1
+
+**📱 [P2P File Transfer](https://github.com/BrijeshDevOp/P2P_Frontend)**  
+P2P file sharing mobile application with signaling server  
+`Kotlin` `JavaScript`
+
+**🤖 [Sentiment Analyser](https://github.com/BrijeshDevOp/SentimentAnalyser)**  
+Machine learning project to analyse sentiments of text  
+`Python` `Machine Learning`
+
+**🚗 [Tire Texture Monitor](https://github.com/BrijeshDevOp/TireTextureMonitoringSystem)**  
+AI-powered tire texture classifier for safety monitoring  
+`HTML` `Python` `AI`
+
+**📄 [Resume Matcher](https://github.com/BrijeshDevOp/ResumeMatcher)**  
+Mobile app for matching resumes with Job Descriptions  
+`C++` `Flutter`
+
+**🔧 [P2P Backend](https://github.com/BrijeshDevOp/P2P_Backend)**  
+Signalling server for P2P file transfer app  
+`JavaScript` `Node.js`
+
+---
+
 ## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-poojary-bb37512b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-poojary-bb37512b3)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/BrijeshDevOp)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/brijeshpoojary9663/)
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:brijeshpoojary9663@gmail.com)
